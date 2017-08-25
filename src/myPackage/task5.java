@@ -5,7 +5,8 @@ public class task5{
         public static void main(String[] args) {
             Scanner scany = new Scanner(System.in);
             System.out.println("Введите предпологаемое палидромное слово");
-            String s = scany.next();
+            String x = scany.next();
+            String s=x.toLowerCase();
             task5 go=new task5();
             go(s);
         }
