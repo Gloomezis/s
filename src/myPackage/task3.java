@@ -6,7 +6,7 @@ public class task3 {
 
             Scanner in = new Scanner(System.in);
             boolean iTOG = true;
-            System.out.print("ВВедите значение Х первой точки первого отрезка");
+            System.out.print("Введите значение Х первой точки первого отрезка");
             Float x11 = in.nextFloat();
             System.out.print("Введите значение У первой точки первого отрезка");
             Float y11 = in.nextFloat();
@@ -38,7 +38,7 @@ public class task3 {
             }
             else {iTOG = false;}
 
-            if (iTOG) {System.out.println("пересекаются в точке (" + xi + "," + yi + ")");}
+            if (iTOG) {System.out.println("пересекаются");}
             else {System.out.println("непересекаются");}
 
         }
