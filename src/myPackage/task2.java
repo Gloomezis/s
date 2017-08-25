@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class task2 {
         public static void main(String[] args) {
             Scanner in = new Scanner(System.in);
-            System.out.println("Введите число N- предел(включительно) вычисления чисел фибонначи  ");
+            System.out.println("Write the number N of the limit of  numbers fibonacci");
             int g = in.nextInt();
 
             int a = 1, b = 1;
