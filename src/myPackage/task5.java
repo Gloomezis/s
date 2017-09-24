@@ -11,12 +11,14 @@ public class task5 {
         task5 go = new task5();
         go(s);
     }
+
     public static String reverse(String s) {
         String q = "";
         for (int i = s.length() - 1; i >= 0; i--)
             q += s.charAt(i);
         return q;
     }
+
     public static void go(String s) {
         if (s.equals(reverse(s))) {
             System.out.println("это палиндромность");
