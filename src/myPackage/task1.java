@@ -8,6 +8,7 @@ public class task1 {
         task1 go1 = new task1();
         go1.go();
     }
+
     public void go() {
         Scanner in = new Scanner(System.in);
         System.out.println("Write the number N of the limit of prime numbers");
