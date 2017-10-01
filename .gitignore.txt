@@ -1,3 +1,4 @@
 .out/
 *.md
 .idea/
+.out/
