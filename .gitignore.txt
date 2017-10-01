@@ -1,5 +1,0 @@
-.out/
-*.md
-.idea/
-.out/
-s.iml
