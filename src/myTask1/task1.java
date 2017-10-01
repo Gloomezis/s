@@ -1,4 +1,4 @@
-package secondPackageTASK;
+package myTask1;
 
 import java.util.Scanner;
 // Создайте программу, вычисляющую и выводящую на экран сумму цифр введеннго числа.
