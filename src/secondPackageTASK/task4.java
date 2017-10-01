@@ -10,6 +10,6 @@ public class task4 {
         double g = in.nextDouble();
         int g2 = in.nextInt();
         System.out.println("your weigth on moon will be " + g * 0.17 + "kg");
-        System.out.println("your salary in $ is "+1/1.94*g2);
+        System.out.println("your salary in $ is "+1/1.994*g2);
     }
 }

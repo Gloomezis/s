@@ -42,6 +42,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="task5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/secondPackageTASK/task5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -80,10 +90,10 @@
         <option value="$PROJECT_DIR$/src/secondPackageTASK/task11.java" />
         <option value="$PROJECT_DIR$/src/secondPackageTASK/task2.java" />
         <option value="$PROJECT_DIR$/src/secondPackageTASK/task1.java" />
-        <option value="$PROJECT_DIR$/src/secondPackageTASK/task4.java" />
         <option value="$PROJECT_DIR$/src/secondPackageTASK/task5.java" />
         <option value="$PROJECT_DIR$/src/secondPackageTASK/task3.java" />
         <option value="$PROJECT_DIR$/.gitignore.txt" />
+        <option value="$PROJECT_DIR$/src/secondPackageTASK/task4.java" />
       </list>
     </option>
   </component>
@@ -769,14 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondPackageTASK/task5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/secondPackageTASK/task2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -797,6 +799,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondPackageTASK/task5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
