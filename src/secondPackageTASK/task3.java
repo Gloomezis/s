@@ -21,7 +21,7 @@ public class task3 {
         System.out.println("\nввести число какой элемент массива увеличить на 10%, отсчет от 1 ");
         int g2 = gg.nextInt();
 
-        double result = massiv[g2 - 1] * 1.1;
+        double result = massiv[g2 - 1] * 1.11;
         System.out.println(result);
     }
 }
