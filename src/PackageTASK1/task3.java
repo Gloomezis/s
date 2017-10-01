@@ -1,4 +1,4 @@
-package secondPackageTASK;
+package PackageTASK1;
 //Напиши метод, который будет увеличивать заданный элемент массива на 10%
 
 import java.util.Scanner;
